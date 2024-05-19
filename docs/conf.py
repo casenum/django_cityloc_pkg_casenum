@@ -14,6 +14,7 @@ import os
 import sys
 
 # sys.path.insert(0, os.path.abspath('.'))
+# Enabled and added a double dot in the parenthesis
 sys.path.insert(0, os.path.abspath(".."))
 
 

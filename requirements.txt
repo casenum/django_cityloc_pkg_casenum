@@ -1,2 +1,2 @@
-#add any project dependencies here
+#add any project dependencies here that's needed
 django>=3.2
